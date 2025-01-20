@@ -27,7 +27,7 @@ where p(x) represents the probability of occurrence for each symbol in the text.
 
 ## 💻 Source Code & Implementation
 ### P5.js Editors:
-- [Graphic Visualization]([https://editor.p5js.org/LaurianeGelebart/sketches/wikrbcMd3)
+- [Graphic Visualization](https://editor.p5js.org/LaurianeGelebart/sketches/wikrbcMd3)
 - [Word Analysis](https://editor.p5js.org/LaurianeGelebart/sketches/mxrZQLfvQ)
 
 ## 📊 Dataset and Analysis Resources
